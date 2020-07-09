@@ -1,4 +1,10 @@
-### Hi there 👋
+👋 Hi there, I'm Tim Qian, an indiehacker/freelancer live in China.
+
+I'm currently working on [feeds.pub](https://feeds.pub), an RSS aggregator and network.
+
+- 🔭 Feeds I am following [feeds.pub/timqian](https://feeds.pub/timqian)
+- 📫 How to reach me: [timqian@t9t.io](mailto:timqian@t9t.io)
+
 
 <!--
 **timqian/timqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
