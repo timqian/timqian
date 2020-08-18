@@ -1,7 +1,5 @@
 👋 **Hi there**, I'm Tim Qian, an indiehacker/freelancer live in China.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=timqian&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
-
 I'm currently working on [feeds.pub](https://feeds.pub), an RSS aggregator and network.
 
 - 🔭 Feeds I am following [feeds.pub/timqian](https://feeds.pub/timqian)
