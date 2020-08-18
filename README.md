@@ -2,8 +2,14 @@
 
 I'm currently working on [feeds.pub](https://feeds.pub), an RSS aggregator and network.
 
-- 🔭 Feeds I am following [feeds.pub/timqian](https://feeds.pub/timqian)
-- 📫 How to reach me: [timqian@t9t.io](mailto:timqian@t9t.io)
+You can find me here:
+
+- [Feeds Pub](https://feeds.pub/timqian)
+- [Twitter](https://twitter.com/tim_qian)
+- [Telegram](https://t.me/timqian)
+- [WeChat](https://i.v2ex.co/1U6OSqswl.jpeg)
+- [Blog(CN)](https://blog.t9t.io)
+- [Blog(EN)](https://timqian.com/blog)
 
 
 <!--
