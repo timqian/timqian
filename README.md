@@ -4,7 +4,7 @@ I'm currently working on [feeds.pub](https://feeds.pub), an RSS aggregator and n
 
 You can find me here:
 
-[Feeds Pub](https://feeds.pub/timqian) • [Twitter](https://twitter.com/tim_qian) • [Telegram](https://t.me/timqian) • [WeChat](https://i.v2ex.co/1U6OSqswl.jpeg) • [Blog(CN)](https://blog.t9t.io) • [Blog(EN)](https://timqian.com/blog)
+[FeedsPub](https://feeds.pub/timqian) • [Twitter](https://twitter.com/tim_qian) • [Telegram](https://t.me/timqian) • [WeChat](https://i.v2ex.co/1U6OSqswl.jpeg) • [Blog(CN)](https://blog.t9t.io) • [Blog(EN)](https://timqian.com/blog)
 
 
 <!--
