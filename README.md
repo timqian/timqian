@@ -1,4 +1,4 @@
-👋 **Hi there**, I'm Tim Qian, an indiehacker/freelancer live in China.
+👋 **Hi there**, I'm Tim Qian, an indiehacker/freelancer living in China.
 
 I'm currently working on [feeds.pub](https://feeds.pub), an RSS aggregator and network.
 
