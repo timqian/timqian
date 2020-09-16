@@ -1,8 +1,6 @@
-👋 **Hi there**, I'm Tim Qian, an indiehacker/freelancer live in China.
+👋 **Hi there**, I'm Tim Qian, a full-stack JS hacker and open source activist. I created [feeds.pub](https://feeds.pub), [chart.xkcd](https://github.com/timqian/chart.xkcd) and many more tools.
 
-I'm currently working on [feeds.pub](https://feeds.pub), an RSS aggregator and network.
-
-You can find me here:
+You can also find me here:
 
 [FeedsPub](https://feeds.pub/timqian) • [Twitter](https://twitter.com/tim_qian) • [Telegram](https://t.me/timqian) • [WeChat](https://i.v2ex.co/1U6OSqswl.jpeg) • [Blog(CN)](https://blog.t9t.io) • [Blog(EN)](https://timqian.com/blog)
 
