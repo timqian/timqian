@@ -1,4 +1,4 @@
-👋 **Hi there**, I'm Tim Qian, a full-stack JS hacker and open source activist. I created [feeds.pub](https://feeds.pub), [chart.xkcd](https://github.com/timqian/chart.xkcd) and many more tools.
+I'm a full-stack JS hacker and open source activist. I created [feeds.pub](https://feeds.pub), [chart.xkcd](https://github.com/timqian/chart.xkcd) and many more tools.
 
 You can also find me here:
 
