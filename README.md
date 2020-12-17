@@ -2,7 +2,7 @@ I'm a full-stack JS hacker and open source activist. I created [feeds.pub](https
 
 You can also find me here:
 
-[FeedsPub](https://feeds.pub/timqian) • [Twitter](https://twitter.com/tim_qian) • [Telegram](https://t.me/timqian) • [WeChat](https://i.v2ex.co/1U6OSqswl.jpeg) • [Blog(CN)](https://blog.t9t.io) • [Blog(EN)](https://timqian.com/blog)
+[feeds.pub](https://feeds.pub/timqian) • [Twitter](https://twitter.com/tim_qian) • [Telegram](https://t.me/timqian) • [WeChat](https://i.v2ex.co/1U6OSqswl.jpeg) • [Blog(CN)](https://blog.t9t.io) • [Blog(EN)](https://timqian.com/blog)
 
 
 <!--
