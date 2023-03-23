@@ -1,4 +1,4 @@
-I'm a full-stack JS hacker and open source activist. I created [sponsor.cat](https://sponsor.cat), [chart.xkcd](https://github.com/timqian/chart.xkcd) and many more tools.
+I'm a full-stack JS hacker and open source activist. I created [OpenPrompt](https://openprompt.co), [sponsor.cat](https://sponsor.cat), [chart.xkcd](https://github.com/timqian/chart.xkcd), [star-history](https://star-history.com) and many more tools.
 
 You can also find me here:
 
