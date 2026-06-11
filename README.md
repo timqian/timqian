@@ -4,4 +4,4 @@ Work with me:
 
 - $10000 to build a startup with you for one month
 
-Contact me: [Email](mailto:timqian@t9t.io) · [DM on X](https://x.com/timqian)
+Contact me: [Email](mailto:timqian@t9t.io) · [DM on X](https://x.com/tim_qian)
