@@ -1,4 +1,4 @@
-Work with me:
+Building transparent startups at [t9t.io](https://t9t.io). Work with me:
 
 - $3000 to build a startup with you for one week
 
